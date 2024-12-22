@@ -1,0 +1,103 @@
+Important topics of Array for Placement preparation.
+-----------------------------------------------------------
+| Topic                                  | Description                                |
+-----------------------------------------------------------
+| 1. Array Manipulation                   | Basic operations like insertion, deletion, |
+|                                          | and update in arrays.                      |
+-----------------------------------------------------------
+| 2. Sliding Window Technique             | Used for problems involving subarrays of   |
+|                                          | fixed or variable length.                  |
+-----------------------------------------------------------
+| 3. Two Pointer Technique                | Efficient solutions for problems like      |
+|                                          | sorting, partitioning, and searching.      |
+-----------------------------------------------------------
+| 4. Kadane's Algorithm                   | For finding the maximum sum subarray.      |
+-----------------------------------------------------------
+| 5. Prefix and Suffix Sum Arrays         | For efficient range queries and prefix/suffix|
+|                                          | sum problems.                              |
+-----------------------------------------------------------
+| 6. Searching and Sorting Algorithms     | Binary Search, Merge Sort, Quick Sort,     |
+|                                          | and their variations.                      |
+-----------------------------------------------------------
+| 7. Maximum Product Subarray             | Finding the maximum product in a subarray. |
+-----------------------------------------------------------
+| 8. Majority Element (Boyer-Moore)       | Finding the element that appears more than |
+|                                          | n/2 times in an array.                    |
+-----------------------------------------------------------
+| 9. Trapping Rain Water                 | Finding the total water trapped between    |
+|                                          | bars in an array.                          |
+-----------------------------------------------------------
+| 10. 3-Sum Problem                       | Finding triplets in an array that sum to   |
+|                                          | zero or other target values.              |
+-----------------------------------------------------------
+| 11. Search in Rotated Sorted Array      | Searching in an array that has been rotated.|
+-----------------------------------------------------------
+| 12. Subarray with Given Sum             | Finding subarrays with a specific sum.     |
+-----------------------------------------------------------
+| 13. Array Partitioning                  | Dividing an array into subarrays to meet   |
+|                                          | certain conditions.                       |
+-----------------------------------------------------------
+| 14. Longest Consecutive Subsequence     | Finding the longest consecutive subsequence|
+|                                          | in an unsorted array.                     |
+-----------------------------------------------------------
+| 15. Array Rearrangement                 | Rearranging elements to meet a certain     |
+|                                          | condition or pattern.                     |
+-----------------------------------------------------------
+| 16. Matrix Problems (2D Array)          | Problems like matrix rotation, diagonal    |
+|                                          | traversal, and pathfinding.               |
+-----------------------------------------------------------
+| 17. Spiral Matrix Traversal             | Traversing a matrix in a spiral order.     |
+-----------------------------------------------------------
+| 18. Subarray with Maximum Sum           | Finding the subarray with the maximum sum. |
+-----------------------------------------------------------
+| 19. Longest Increasing Subsequence      | Finding the longest increasing subsequence.|
+-----------------------------------------------------------
+| 20. Array-based Dynamic Programming     | Problems like coin change, knapsack, etc.  |
+-----------------------------------------------------------
+
+
+//** 2 question on each topics **//
+
+-----------------------------------------------------------
+| Topic                                  | Question 1                                    | Question 2                                     | Companies that Ask                              |
+-----------------------------------------------------------
+| 1. Array Manipulation                   | Reverse an array in place.                    | Move all zeroes to the end of the array.       | Google, Microsoft, Amazon                      |
+-----------------------------------------------------------
+| 2. Sliding Window Technique             | Find the maximum sum of a subarray of size k.  | Longest substring with at most k distinct chars.| Facebook, Microsoft, Samsung                   |
+-----------------------------------------------------------
+| 3. Two Pointer Technique                | Find pairs with a given sum in a sorted array. | Remove duplicates from a sorted array.          | Google, Amazon, Microsoft                      |
+-----------------------------------------------------------
+| 4. Kadane's Algorithm                   | Maximum subarray sum.                         | Maximum product subarray.                      | Google, Microsoft, Amazon                      |
+-----------------------------------------------------------
+| 5. Prefix and Suffix Sum Arrays         | Find the sum of elements in a range [L, R].    | Find the maximum sum of subarray with sum <= x. | Amazon, Microsoft, Flipkart                    |
+-----------------------------------------------------------
+| 6. Searching and Sorting Algorithms     | Binary search in a rotated sorted array.       | QuickSort algorithm.                           | Google, Microsoft, Amazon                      |
+-----------------------------------------------------------
+| 7. Maximum Product Subarray             | Find the maximum product of a subarray.        | Maximum product subarray with negative numbers. | Amazon, Google, Samsung                        |
+-----------------------------------------------------------
+| 8. Majority Element (Boyer-Moore)       | Find the majority element in an array.         | Find the element appearing more than n/3 times.| Google, Microsoft, Amazon                      |
+-----------------------------------------------------------
+| 9. Trapping Rain Water                 | Calculate the trapped water between bars.      | Trapping rain water in a 2D elevation map.     | Microsoft, Amazon, Facebook                    |
+-----------------------------------------------------------
+| 10. 3-Sum Problem                       | Find triplets in an array that sum to zero.    | Find all unique triplets that sum to a target. | Google, Microsoft, Amazon                      |
+-----------------------------------------------------------
+| 11. Search in Rotated Sorted Array      | Search an element in a rotated sorted array.   | Find the minimum element in a rotated sorted array. | Microsoft, Google, Amazon                     |
+-----------------------------------------------------------
+| 12. Subarray with Given Sum             | Find a subarray with a given sum.              | Count subarrays with sum equal to a target.    | Microsoft, Amazon, Facebook                    |
+-----------------------------------------------------------
+| 13. Array Partitioning                  | Partition an array into two subsets with equal sum. | Partition an array into k subsets with equal sum. | Google, Microsoft, Amazon                     |
+-----------------------------------------------------------
+| 14. Longest Consecutive Subsequence     | Find the longest consecutive subsequence.      | Longest consecutive subsequence in an unsorted array. | Google, Microsoft, Amazon                     |
+-----------------------------------------------------------
+| 15. Array Rearrangement                 | Rearrange an array such that the sum of adjacent elements is maximized. | Rearrange the array such that the array is sorted in alternating order. | Amazon, Microsoft, Samsung                     |
+-----------------------------------------------------------
+| 16. Matrix Problems (2D Array)          | Rotate a matrix by 90 degrees.                 | Search a 2D matrix for an element.             | Google, Microsoft, Amazon                      |
+-----------------------------------------------------------
+| 17. Spiral Matrix Traversal             | Traverse a matrix in spiral order.             | Print the boundary elements of a matrix.       | Amazon, Microsoft, Google                      |
+-----------------------------------------------------------
+| 18. Subarray with Maximum Sum           | Find the subarray with the maximum sum.        | Find the subarray with the minimum sum.        | Microsoft, Google, Amazon                      |
+-----------------------------------------------------------
+| 19. Longest Increasing Subsequence      | Find the longest increasing subsequence.       | Find the length of the longest increasing subsequence in an unsorted array. | Google, Amazon, Microsoft                      |
+-----------------------------------------------------------
+| 20. Array-based Dynamic Programming     | Coin change problem.                           | 0/1 Knapsack problem.                          | Google, Amazon, Microsoft                      |
+-----------------------------------------------------------
