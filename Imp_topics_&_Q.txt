@@ -101,3 +101,6 @@ Important topics of Array for Placement preparation.
 -----------------------------------------------------------
 | 20. Array-based Dynamic Programming     | Coin change problem.                           | 0/1 Knapsack problem.                          | Google, Amazon, Microsoft                      |
 -----------------------------------------------------------
+
+Array subsequence imp Q's=>  
+1. LC 3428. Maximum and Minimum Sums of at Most Size K Subsequences
