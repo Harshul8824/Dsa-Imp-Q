@@ -114,3 +114,6 @@ Graph :
 
 BFS imp question
 1. Trapping Rainwater II
+
+stack imp Q->
+1. implement n stack in an array
