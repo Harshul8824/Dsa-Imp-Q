@@ -106,6 +106,7 @@ Array
 
 subsequence imp Q's=>  
 1. LC 3428. Maximum and Minimum Sums of at Most Size K Subsequences  
+2. 1267. Count Servers that Communicate
 
 Two Pointer imp Q =>
 1. Trapping Rainwater 
