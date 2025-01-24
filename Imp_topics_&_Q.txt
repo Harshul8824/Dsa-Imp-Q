@@ -111,10 +111,15 @@ subsequence imp Q's=>
 Two Pointer imp Q =>
 1. Trapping Rainwater 
 
+string :
+1. Count the Reversals (gfg) 
+2. 2381. Shifting Letters II
+
 Graph : 
 
+802. Find Eventual Safe States
 BFS imp question
 1. Trapping Rainwater II
-
+2. 802. Find Eventual Safe States  cyclic dfs
 stack imp Q->
 1. implement n stack in an array
