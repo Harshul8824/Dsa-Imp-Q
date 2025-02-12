@@ -108,6 +108,11 @@ subsequence imp Q's=>
 1. LC 3428. Maximum and Minimum Sums of at Most Size K Subsequences  
 2. 1267. Count Servers that Communicate
 
+
+sorting imp Q's=>
+1. 2948. Make Lexicographically Smallest Array by Swapping Elements 
+
+
 Two Pointer imp Q =>
 1. Trapping Rainwater 
 
@@ -121,5 +126,47 @@ Graph :
 BFS imp question
 1. Trapping Rainwater II
 2. 802. Find Eventual Safe States  cyclic dfs
+
 stack imp Q->
 1. implement n stack in an array
+2. minimum bucket reversal
+3. celebrity problem
+
+*POTD*
+LeetCode 
+1. Remove All Occurrences of a Substring
+2. 2342. Max Sum of a Pair With Equal Sum of Digits
+3. 3174. Clear Digits
+4. 2364. Count Number of Bad Pairs
+5. 2349. Design a Number Container System
+6. 3160. Find the Number of Distinct Colors Among the Balls
+7. 1726. Tuple with Same Product
+8. 1790. Check if One String Swap Can Make Strings Equal
+9. 1800. Maximum Ascending Subarray Sum
+10. 3105. Longest Strictly Increasing or Strictly Decreasing Subarray     
+
+Linked List->
+1. LinkedList traversal 
+   (i) insertion(atbeg,atend,atpos,print,search,findlength)
+   (ii) deletion(atbeg,atend,atpos,print)
+2. Find Middle of LinkedList (Slow and Fast Pointer)
+3. reverse in K node   *IMPORTANT*
+4. check cycle is present or not M1->(by slow and fast pointer approach)or(floyd cycle detection) M->2 using Map
+5. starting point of loop (using slow and fast pointer  ) *VERY IMPORTANT*
+6. remove loop M1-> using Map M2-> using slow and fast pointer  *VERY IMPORTANT*
+7. sort 0,1,2s in linked list (inplace) *IMPORTANT approach *
+8. Kth node from the end
+9. intersection of two LinkedList
+10. Merge two Sorted List
+11. Sort list using Merge sort
+12. Flattern LinkedList
+13. Copy LL with Random pointer
+14. Rotate List
+15. delete N nodes after M nodes
+16. Min Max number between critical point
+17. Merge Nodes in between zeros
+18. Check LL is Palindrome or not
+19. Sort List
+20. remove duplicates from sorted list
+21. remove duplicates from unsorted LinkedList 
+22. Add two numbers represented by LinkedList
