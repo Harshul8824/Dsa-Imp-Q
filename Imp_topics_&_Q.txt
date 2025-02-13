@@ -170,3 +170,60 @@ Linked List->
 20. remove duplicates from sorted list
 21. remove duplicates from unsorted LinkedList 
 22. Add two numbers represented by LinkedList
+
+
+**Aptitude Topics**
+
+-----------------------------------------------------------
+|      Aptitude Topics for Placement Preparation          |
+-----------------------------------------------------------
+| **Quantitative Aptitude**                               |
+-----------------------------------------------------------
+| - Number System (LCM, HCF, Divisibility, Remainders)   |
+| - Percentage, Profit & Loss, Discount                  |
+| - Ratio & Proportion, Partnership, Mixtures           |
+| - Time, Speed, Distance (Trains, Boats, Races)        |
+| - Time & Work (Pipes, Efficiency, Wages)              |
+| - Simple & Compound Interest                          |
+| - Permutations, Combinations, Probability            |
+| - Data Interpretation (Pie Charts, Graphs, Tables)   |
+| - Algebra (Equations, Logarithms, Inequalities)      |
+| - Geometry & Mensuration (Triangles, Circles, 3D)   |
+-----------------------------------------------------------
+| **Logical Reasoning**                                  |
+-----------------------------------------------------------
+| - Blood Relations                                     |
+| - Coding-Decoding                                    |
+| - Syllogisms & Logical Deductions                    |
+| - Direction Sense                                    |
+| - Seating Arrangements (Linear, Circular, Grid)     |
+| - Puzzles (Sudoku, Grid, Scheduling)                |
+| - Data Sufficiency                                   |
+| - Statement & Assumption, Cause & Effect            |
+| - Series & Pattern Recognition                      |
+-----------------------------------------------------------
+| **Verbal Ability**                                    |
+-----------------------------------------------------------
+| - Reading Comprehension                              |
+| - Synonyms & Antonyms                                |
+| - Error Spotting & Sentence Correction              |
+| - Fill in the Blanks (Single & Double)              |
+| - Para Jumbles & Sentence Rearrangement             |
+| - One Word Substitution                             |
+| - Idioms & Phrases                                  |
+| - Active & Passive Voice, Direct & Indirect Speech  |
+-----------------------------------------------------------
+| **Additional Topics**                                |
+-----------------------------------------------------------
+| - Logical Connectives (Statements & Assumptions)    |
+| - Decision Making Problems                          |
+| - Statement & Conclusion Questions                  |
+-----------------------------------------------------------
+| **Preparation Tips**                                 |
+-----------------------------------------------------------
+| - Practice daily from LeetCode, Indiabix, PrepInsta  |
+| - Take mock tests & analyze mistakes                |
+| - Focus on time management for fast solving         |
+| - Solve previous company-specific placement papers  |
+-----------------------------------------------------------
+
