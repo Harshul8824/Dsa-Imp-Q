@@ -59,7 +59,7 @@ Important topics of Array for Placement preparation.
 //** 2 question on each topics **//
 
 -----------------------------------------------------------
-| Topic                                  | Question 1                                    | Question 2                                     | Companies that Ask                              |
+| Topic                                         | Question 1                                  | Question 2                                     | Companies that Ask                              |
 -----------------------------------------------------------
 | 1. Array Manipulation                   | Reverse an array in place.                    | Move all zeroes to the end of the array.       | Google, Microsoft, Amazon                      |
 -----------------------------------------------------------
@@ -108,6 +108,14 @@ subsequence imp Q's=>
 1. LC 3428. Maximum and Minimum Sums of at Most Size K Subsequences  
 2. 1267. Count Servers that Communicate
 
+prefix sum=>
+1. Count Subarrays with Even Sum
+2. Count Subarrays with Sum Divisible by K
+3. Count Subarrays with Sum in a Given Range
+4. Count Subarrays with Sum Equal to K
+5. Count Subarrays with At Most K Odd Numbers
+6. Number of Subarrays with Bitwise XOR Equal to K
+7. Count Subarrays with an Odd Length and Even Sum
 
 sorting imp Q's=>
 1. 2948. Make Lexicographically Smallest Array by Swapping Elements 
@@ -143,7 +151,14 @@ LeetCode
 7. 1726. Tuple with Same Product
 8. 1790. Check if One String Swap Can Make Strings Equal
 9. 1800. Maximum Ascending Subarray Sum
-10. 3105. Longest Strictly Increasing or Strictly Decreasing Subarray     
+10. 3105. Longest Strictly Increasing or Strictly Decreasing Subarray  
+11. 1352. Product of the Last K Numbers
+12. 2698. Find the Punishment Number of an Integer (backtracking)
+13. 1718. Construct the Lexicographically Largest Valid Sequence (backtracking)
+14. 1524. Number of Sub-arrays With Odd Sum
+15. Maximum of minimum for every window size (GFG)
+16. 873. Length of Longest Fibonacci Subsequence
+17. 3468. Find the Number of Copy Arrays
 
 Linked List->
 1. LinkedList traversal 
