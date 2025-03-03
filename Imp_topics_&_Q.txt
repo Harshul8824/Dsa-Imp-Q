@@ -159,6 +159,8 @@ LeetCode
 15. Maximum of minimum for every window size (GFG)
 16. 873. Length of Longest Fibonacci Subsequence
 17. 3468. Find the Number of Copy Arrays
+18. Longest Bounded-Difference Subarray
+19. 2161. Partition Array According to Given Pivot
 
 Linked List->
 1. LinkedList traversal 
