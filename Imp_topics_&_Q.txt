@@ -140,6 +140,9 @@ stack imp Q->
 2. minimum bucket reversal
 3. celebrity problem
 
+stack imp Q->
+1. inorder traversal using iterative approach (using stack)
+
 *POTD*
 LeetCode 
 1. Remove All Occurrences of a Substring
